@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "pets": [
+    {
+      "id": "jade-dragon-mage",
+      "version": "1.0.1",
+      "path": "pets/jade-dragon-mage",
+      "tag": "collection-v1",
+      "assetName": "jade-dragon-mage-1.0.1.petpack"
+    },
+    {
+      "id": "lingpet-chatgpt-dragon",
+      "version": "1.0.0",
+      "path": "pets/lingpet-chatgpt-dragon",
+      "tag": "collection-v1",
+      "assetName": "lingpet-chatgpt-dragon-1.0.0.petpack"
+    },
+    {
+      "id": "lingpet-chatgpt-white-dragon-h3",
+      "version": "1.0.0",
+      "path": "pets/lingpet-chatgpt-white-dragon-h3",
+      "tag": "collection-v1",
+      "assetName": "lingpet-chatgpt-white-dragon-h3-1.0.0.petpack"
+    },
+    {
+      "id": "lingpet-deepseek-h3",
+      "version": "1.0.0",
+      "path": "pets/lingpet-deepseek-h3",
+      "tag": "collection-v1",
+      "assetName": "lingpet-deepseek-h3-1.0.0.petpack"
+    },
+    {
+      "id": "lingpet-orange-blossom-scholar",
+      "version": "1.0.0",
+      "path": "pets/lingpet-orange-blossom-scholar",
+      "tag": "collection-v1",
+      "assetName": "lingpet-orange-blossom-scholar-1.0.0.petpack"
+    },
+    {
+      "id": "lingpet-snowfox-winter",
+      "version": "1.0.0",
+      "path": "pets/lingpet-snowfox-winter",
+      "tag": "collection-v1",
+      "assetName": "lingpet-snowfox-winter-1.0.0.petpack"
+    }
+  ]
+}

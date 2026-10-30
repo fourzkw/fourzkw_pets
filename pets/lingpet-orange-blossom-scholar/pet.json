@@ -1,0 +1,10 @@
+{
+  "formatVersion": 1,
+  "id": "lingpet-orange-blossom-scholar",
+  "name": "橙花书姬",
+  "author": "LingPet",
+  "license": "保留所有权利；未授予公开再分发许可",
+  "description": "从本地形象库导出，保留现有动作与显示版本。",
+  "version": "1.0.0",
+  "minAppVersion": "0.4.0"
+}

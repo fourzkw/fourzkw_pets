@@ -1,0 +1,15 @@
+{
+  "formatVersion": 1,
+  "id": "lingpet-chatgpt-dragon",
+  "name": "云羽龙姬",
+  "author": "LingPet",
+  "license": "保留所有权利；未授予公开再分发许可",
+  "description": "独立形象包，包含八种会话状态、点击和摸头动作，以及原图与像素两种版本。",
+  "version": "1.0.0",
+  "minAppVersion": "0.5.0",
+  "character": {
+    "id": "chatgpt",
+    "name": "ChatGPT",
+    "description": "白羽龙姬 / 云羽龙姬"
+  }
+}
