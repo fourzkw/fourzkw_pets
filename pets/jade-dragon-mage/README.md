@@ -14,7 +14,7 @@
 
 ## 安装
 
-[下载 1.0.1 桌宠包](https://github.com/fourzkw/fourzkw_pets/releases/download/collection-v1/jade-dragon-mage-1.0.1.petpack)，在灵伴桌宠市场选择“导入本地包”，然后到形象列表中选择此形象。
+[下载 1.0.1 桌宠包](https://github.com/fourzkw/fourzkw_pets/releases/download/collection-v2/jade-dragon-mage-1.0.1.petpack)，在灵伴桌宠市场选择“导入本地包”，然后到形象列表中选择此形象。
 
 形象 ID：`jade-dragon-mage`。同一形象的动作更新沿用该 ID，不另建形象条目。
 

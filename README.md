@@ -29,7 +29,7 @@
 
 市场展示资料可随仓库更新，安装动作以对应 Release 包为准。修正角色归属时，仓库资料与包内角色声明同步更新。新增或重做动作仍属于原形象，沿用原形象 ID；只有独立新形象才新增目录与索引条目。
 
-橙花书姬 1.0.1 修正了 Claude 归属，索引引用 `orange-blossom-scholar-v1.0.1` Release；其余形象继续引用 `collection-v1`。
+橙花书姬 1.0.1 修正了 Claude 归属，索引引用 `orange-blossom-scholar-v1.0.1` Release；其余五个形象引用包含新说明的 `collection-v2` Release；包版本和动作资源保持不变。市场从索引指定的 Release 标签读取资料，仅修改默认分支不能刷新旧标签下的说明。
 
 ## 素材许可
 
