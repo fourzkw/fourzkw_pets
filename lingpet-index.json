@@ -31,10 +31,10 @@
     },
     {
       "id": "lingpet-orange-blossom-scholar",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "path": "pets/lingpet-orange-blossom-scholar",
-      "tag": "collection-v1",
-      "assetName": "lingpet-orange-blossom-scholar-1.0.0.petpack"
+      "tag": "orange-blossom-scholar-v1.0.1",
+      "assetName": "lingpet-orange-blossom-scholar-1.0.1.petpack"
     },
     {
       "id": "lingpet-snowfox-winter",

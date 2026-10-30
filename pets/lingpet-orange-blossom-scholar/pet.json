@@ -4,7 +4,12 @@
   "name": "橙花书姬",
   "author": "LingPet",
   "license": "保留所有权利；未授予公开再分发许可",
-  "description": "从本地形象库导出，保留现有动作与显示版本。",
-  "version": "1.0.0",
-  "minAppVersion": "0.4.0"
+  "description": "Claude 的橙花书姬形象，橙色长发配花朵发饰，手持书本、身着橙白裙装，呈现温暖的书卷气。提供八种会话状态动画，覆盖待机、思考、执行工具、等待输入、等待审批、完成、异常和睡眠；当前为透明原图版。",
+  "version": "1.0.1",
+  "minAppVersion": "0.4.0",
+  "character": {
+    "id": "claude",
+    "name": "Claude",
+    "description": "Claude 的桌宠角色"
+  }
 }
